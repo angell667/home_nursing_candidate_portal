@@ -49,7 +49,7 @@ export default function SavedJobsPage() {
 
   const removeJob = (id: number, title: string) => {
     const updated = savedJobIds.filter(jobId => jobId !== id);
-    setSavedJobsIds(updated);
+    setSavedJobIds(updated);
     localStorage.setItem('savedJobs', JSON.stringify(updated));
     
     setToast({ show: true, message: `Removed ${title} from saved jobs` });

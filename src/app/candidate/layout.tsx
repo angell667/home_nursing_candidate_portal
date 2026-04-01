@@ -120,7 +120,7 @@ export default function CandidateLayout({
                         <motion.div 
                           layoutId="active-nav-pill" 
                           className="ml-auto w-1 h-4 bg-teal-500 rounded-full"
-                          transition={{ type: "spring", stiffness: 300, damping: 30 }}
+                          transition={{ type: "spring" as const, stiffness: 300, damping: 30 }}
                         />
                       )}
                     </Link>
