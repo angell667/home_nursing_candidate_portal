@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[20165,["/home_nursing_candidate_portal/_next/static/chunks/82b23b7e97b2d4b0.js","/home_nursing_candidate_portal/_next/static/chunks/78a6a1c2a3f2fa06.js"],"default"]
+4:I[79614,["/home_nursing_candidate_portal/_next/static/chunks/fc7b5066896ac6f0.js","/home_nursing_candidate_portal/_next/static/chunks/972d71ae10e2f769.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"kTZCVxtwpr9CJgplZDofo","rsc":["$","$1","c",{"children":[["$","$L2",null,{"params":"$@3"}],[["$","script","script-0",{"src":"/home_nursing_candidate_portal/_next/static/chunks/82b23b7e97b2d4b0.js","async":true}],["$","script","script-1",{"src":"/home_nursing_candidate_portal/_next/static/chunks/78a6a1c2a3f2fa06.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+3:{"id":"6"}
+6:null

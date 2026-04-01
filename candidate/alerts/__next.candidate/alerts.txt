@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[5231,["/home_nursing_candidate_portal/_next/static/chunks/fc7b5066896ac6f0.js","/home_nursing_candidate_portal/_next/static/chunks/972d71ae10e2f769.js"],"default"]
+3:I[63206,["/home_nursing_candidate_portal/_next/static/chunks/fc7b5066896ac6f0.js","/home_nursing_candidate_portal/_next/static/chunks/972d71ae10e2f769.js"],"default"]
+0:{"buildId":"kTZCVxtwpr9CJgplZDofo","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
